@@ -7,7 +7,7 @@ class Cssdiff < Formula
   on_macos do
     on_arm do
       url "https://homebrew-bottles.s3.fr-par.scw.cloud/cssdiff-20260401.arm64_sonoma.bottle.tar.gz"
-      sha256 "a79f519bed7cc5a63ffbe7bc0dfb6147e2f3ec3b9784a3f026e5f613ba6816f3"
+      sha256 "f8f2d056613fbc82fbf7a5e73860aec514518b44a6df865cd8843b50efd57ba0"
     end
     on_intel do
       url "https://homebrew-bottles.s3.fr-par.scw.cloud/cssdiff-latest.sonoma.bottle.tar.gz"

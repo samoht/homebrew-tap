@@ -7,7 +7,7 @@ class Cascade < Formula
   on_macos do
     on_arm do
       url "https://homebrew-bottles.s3.fr-par.scw.cloud/cascade-20260401.arm64_sonoma.bottle.tar.gz"
-      sha256 "ae02d54f1fe5c2577acb956c7242f1a740634ee75ed6168332d14a4285ed72d9"
+      sha256 "969f90a23b2eec0f777887714959dea8bede916b903b78141f7a6da779d314e7"
     end
     on_intel do
       url "https://homebrew-bottles.s3.fr-par.scw.cloud/cascade-latest.sonoma.bottle.tar.gz"
