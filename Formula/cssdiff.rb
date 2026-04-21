@@ -2,12 +2,12 @@ class Cssdiff < Formula
   desc "Compare CSS files with structural analysis"
   homepage "https://tangled.org/samoht/cssdiff"
   license "ISC"
-  version "20260401-81f1c8c"
+  version "20260421-4c8962d"
 
   on_macos do
     on_arm do
-      url "https://homebrew-bottles.s3.fr-par.scw.cloud/cssdiff-20260401-81f1c8c.arm64_sonoma.bottle.tar.gz"
-      sha256 "76c711ef1c7d87fcdb15a6a8d9b965df1c9ff03ab61b88538518f9cc00580eff"
+      url "https://homebrew-bottles.s3.fr-par.scw.cloud/cssdiff-20260421-4c8962d.arm64_sonoma.bottle.tar.gz"
+      sha256 "6f277f3a532f7213de3125f4081e0369e883d5985c3ccfea1a05bccfd0e8f3a7"
     end
     on_intel do
       url "https://homebrew-bottles.s3.fr-par.scw.cloud/cssdiff-latest.sonoma.bottle.tar.gz"

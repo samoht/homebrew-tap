@@ -2,12 +2,12 @@ class Cascade < Formula
   desc "CSS generation and manipulation tool"
   homepage "https://tangled.org/samoht/cascade"
   license "ISC"
-  version "20260401-81f1c8c"
+  version "20260421-4c8962d"
 
   on_macos do
     on_arm do
-      url "https://homebrew-bottles.s3.fr-par.scw.cloud/cascade-20260401-81f1c8c.arm64_sonoma.bottle.tar.gz"
-      sha256 "afeb94b1e10b3fcfc818b30a0593de258bd42de0c5114dcaf9c01d6ad6ee5816"
+      url "https://homebrew-bottles.s3.fr-par.scw.cloud/cascade-20260421-4c8962d.arm64_sonoma.bottle.tar.gz"
+      sha256 "9e20c2fd3152b884b79c480a942ddae47488fc884220ab7812b6dcc649d9f410"
     end
     on_intel do
       url "https://homebrew-bottles.s3.fr-par.scw.cloud/cascade-latest.sonoma.bottle.tar.gz"
