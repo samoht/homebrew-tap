@@ -1,6 +1,6 @@
-# homebrew-monopam
+# homebrew-tap
 
-Homebrew tap for OCaml tools.
+Homebrew tap.
 
 ## Installation
 
@@ -12,13 +12,14 @@ brew tap samoht/tap
 
 | Formula | Description |
 |---------|-------------|
-| `cascade` | CSS generation and manipulation tool |
+| `cascade` | CSS formatter, minifier, inliner, and structural diff tool |
+| `cssdiff` | Compare CSS files with structural analysis |
 
 ## Usage
 
 ```bash
 # Install pre-built binaries
-brew install cascade
+brew install cascade cssdiff
 
 # Or build from source
 brew install --HEAD cascade
