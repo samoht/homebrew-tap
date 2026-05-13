@@ -13,13 +13,12 @@ brew tap samoht/tap
 | Formula | Description |
 |---------|-------------|
 | `cascade` | CSS generation and manipulation tool |
-| `cssdiff` | Compare CSS files with structural analysis |
 
 ## Usage
 
 ```bash
 # Install pre-built binaries
-brew install cascade cssdiff
+brew install cascade
 
 # Or build from source
 brew install --HEAD cascade
