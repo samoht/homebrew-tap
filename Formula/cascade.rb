@@ -3,11 +3,11 @@ class Cascade < Formula
   homepage "https://tangled.org/samoht/cascade"
   license "ISC"
   url "https://tangled.org/samoht/mono.git", using: :git, branch: "main"
-  version "1.2.0"
+  version "1.2.1"
 
   bottle do
     root_url "https://homebrew-bottles.s3.fr-par.scw.cloud/cascade"
-    sha256 cellar: :any_skip_relocation, arm64_sonoma: "470748462b9edeaa49a504f19f3dcb6a96f38b4e28490d61073cce69361bce9b"
+    sha256 cellar: :any_skip_relocation, arm64_sonoma: "4df182fe39b5bc7906210eee0012c53df76b56008605562ca49957c67d1eeba9"
   end
 
   head "https://tangled.org/samoht/mono.git", branch: "main"
