@@ -7,7 +7,7 @@ class Tw < Formula
 
   bottle do
     root_url "https://homebrew-bottles.s3.fr-par.scw.cloud/tw"
-    sha256 cellar: :any_skip_relocation, arm64_sonoma: "287b4090dcb9910c6642268584e87b116d2ed793fced762381b97203ea0d88ab"
+    sha256 cellar: :any_skip_relocation, arm64_sonoma: "6663e66edcfe84de045a69019b584fe4f3e0aabd65b6c09bd71ca5c881dae401"
   end
 
   head "https://tangled.org/samoht/mono.git", branch: "main"
