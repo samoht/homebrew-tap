@@ -14,6 +14,7 @@ brew tap samoht/tap
 |---------|-------------|
 | `cascade` | CSS formatter, minifier, inliner, and structural diff tool |
 | `cssdiff` | Compare CSS files with structural analysis |
+| `k7` | Record terminal programs, cram tests and VHS tapes as animated SVG |
 | `space` | SpaceOS runtime and CLI |
 | `tw` | Type-safe Tailwind CSS v4 in OCaml |
 
@@ -21,7 +22,7 @@ brew tap samoht/tap
 
 ```bash
 # Install pre-built binaries
-brew install cascade cssdiff space tw
+brew install cascade cssdiff k7 space tw
 
 # Or build from source
 brew install --HEAD cascade
