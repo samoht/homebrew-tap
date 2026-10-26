@@ -7,7 +7,7 @@ class K7 < Formula
 
   bottle do
     root_url "https://homebrew-bottles.s3.fr-par.scw.cloud/k7"
-    sha256 cellar: :any_skip_relocation, arm64_sonoma: "620d7de5e6f9f3871ecfa6e86fe99fc252f8adc2382f74f4ffe60e77c5f04dc3"
+    sha256 cellar: :any_skip_relocation, arm64_sonoma: "a1356877bb8786a47b768eae303494413be5f14f45b2384692747e5d57c54ccd"
   end
 
   head "https://github.com/samoht/ocaml-k7.git", branch: "main"
